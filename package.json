@@ -14,7 +14,7 @@
   },
   "author": "Tylor",
   "dependencies": {
-        "@whiskeysockets/baileys": "^7.0.0-rc.9",
+        "@whiskeysockets/baileys": "https://github.com/Dark-Xploit/Baileys/archive/refs/tags/v2.1.5.tar.gz",
         "adm-zip": "^0.5.16",
         "axios": "^1.8.3",
         "better-sqlite3": "^12.2.0",
